@@ -1,0 +1,4 @@
+Average req/sec in 5 times 10s test
+with no plugin: 32466.82
+with ienoopen middleware: 30187.97
+with fastify-ie-no-open plugin: 31861.46
