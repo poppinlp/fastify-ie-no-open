@@ -22,6 +22,9 @@
     "helmet",
     "ie-no-open"
   ],
+  "files": [
+    "src"
+  ],
   "author": "PoppinL",
   "license": "MIT",
   "bugs": {
