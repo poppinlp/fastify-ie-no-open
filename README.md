@@ -17,6 +17,11 @@ You may know [ie-no-open](https://github.com/helmetjs/ienoopen) as a [ie-no-open
 
 You may find the reason in [benchmark result](./benchmarks/benchmark.txt) and wish you like it. :)
 
+## Difference
+
+This plugin has passed all [ie-no-open](https://github.com/helmetjs/ienoopen) test cases.
+And no difference in options.
+
 ## Install
 
 Via npm:

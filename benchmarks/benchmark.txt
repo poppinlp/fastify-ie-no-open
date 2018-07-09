@@ -1,4 +1,8 @@
-Average req/sec in 5 times 10s test
-with no plugin: 32466.82
-with ienoopen middleware: 30187.97
-with fastify-ie-no-open plugin: 31861.46
+node version: v10.6.0
+platform: darwin
+cpus: [{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":76907830,"nice":0,"sys":41902320,"idle":303140070,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":42557960,"nice":0,"sys":17987320,"idle":361382990,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":74239230,"nice":0,"sys":35384360,"idle":312304730,"irq":0}},{"model":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz","speed":3100,"times":{"user":43370640,"nice":0,"sys":17474650,"idle":361082940,"irq":0}}]
+
+Average req/sec in 3 times 10s test
+with no plugin: 22913.12
+with ienoopen middleware: 20196.20
+with fastify-ie-no-open plugin: 21149.80
